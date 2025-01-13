@@ -1,2 +1,3 @@
 # Sobre mí.
 ..........
+![Mi imagen](/img/face.png)
